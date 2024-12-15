@@ -1,3 +1,1 @@
-## 冗談計算機の研究
-
-- [冗談の研究と冗談計算機](https://github.com/idutsu/kirikuchikun-diary/blob/main/20241210.md)
+## 冗談計算機の日記
